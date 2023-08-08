@@ -1,0 +1,37 @@
+{
+ "1": {
+  "Name": "Rohit",
+  "DOB": "07/12/1996",
+  "Height": "5.9feet",
+  "City": "Jagdalpur",
+  "State": "Chhatisgarh"
+ },
+ "2": {
+  "Name": "Sanchi",
+  "DOB": "19/01/1990",
+  "Height": "5feet",
+  "City": "Hyderabad",
+  "State": "Telangana"
+ },
+ "3": {
+  "Name": "Poorvi",
+  "DOB": "11/04/1989",
+  "Height": "5feet",
+  "City": "Bhuvneshwar",
+  "State": "Odissa"
+ },
+ "4": {
+  "Name": "Lata",
+  "DOB": "29/11/1995",
+  "Height": "5.3feet",
+  "City": "vishakapatnam",
+  "State": "Andra Pradesh"
+ },
+ "5": {
+  "Name": "Preeti",
+  "DOB": "16/05/1993",
+  "Height": "5.1feet",
+  "City": "Banglore",
+  "State": "Karnataka"
+ }
+}
